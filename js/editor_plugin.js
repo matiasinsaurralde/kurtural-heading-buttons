@@ -4,6 +4,7 @@
 
 	tinymce.create('tinymce.plugins.WPHeadingButtons', {
 		init : function(ed, url) {
+/*
 			ed.addButton('heading1', {
 				title : 'wpheadingbuttons.heading1',
 				image : url+'/../images/btn_h1.png',
@@ -25,6 +26,7 @@
 					ed.execCommand('FormatBlock', false, 'h3');
 				}
 			});
+*/
 			ed.addButton('heading4', {
 				title : 'wpheadingbuttons.heading4',
 				image : url+'/../images/btn_h4.png',
@@ -39,6 +41,7 @@
 					ed.execCommand('FormatBlock', false, 'h5');
 				}
 			});
+/*
 			ed.addButton('heading6', {
 				title : 'wpheadingbuttons.heading6',
 				image : url+'/../images/btn_h6.png',
@@ -46,6 +49,7 @@
 					ed.execCommand('FormatBlock', false, 'h6');
 				}
 			});
+*/
 
 		},
 

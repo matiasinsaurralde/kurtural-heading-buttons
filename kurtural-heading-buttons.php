@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Heading Buttons
+Plugin Name: WP Heading Buttons (Kurtural)
 Plugin URI: http://tercan.net/wp-heading-buttons/
 Description: Adding heading buttons (H1, H2, H3, H4, H5, H6) to TinyMCE editor.
 Version: 0.2
